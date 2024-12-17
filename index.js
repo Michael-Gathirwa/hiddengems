@@ -57,6 +57,7 @@ const gemDetails = {
         <li>Unique eco-friendly products made from recycled materials.</li>
         <li>A vibrant space for art exhibitions and workshops.</li>
         <li>On-site shops featuring local handmade crafts.</li>
+        <li>Get To meet one beautiful Bar lady Her Name Peris with a face to long for and warm calming voice.</li>
       </ul>
       <p><strong>Opening Hours:</strong> 10:00 AM - 6:00 PM, Tuesday to Sunday.</p>
     `
