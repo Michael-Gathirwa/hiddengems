@@ -9,7 +9,7 @@ const closeBtn = document.querySelector('.close-btn');
 const gemDetails = {
   "Iced mint": {
     name: "Iced mint",
-    image: "images/karura.jpg",
+    image: "karura.jpg",
     description: `
       Karura Forest is one of Nairobi's hidden treasures, offering a serene escape from the bustling city. 
       <ul>
@@ -24,7 +24,7 @@ const gemDetails = {
   },
   "Matbronze Gallery": {
     name: "Matbronze Gallery",
-    image: "images/matbronze.jpg",
+    image: "matbronze.jpg",
     description: `
       Matbronze Gallery is a hidden art hub in Nairobi, showcasing exquisite bronze sculptures and unique designs.
       <ul>
@@ -37,7 +37,7 @@ const gemDetails = {
   },
   "K1 Klub House": {
     name: "K1 Klub House ,Ojijo Road, Parklands, Nairobi",
-    image: "images/K1.jpg",
+    image: "K1.jpg",
     description: `
       K1 Klub House is a popular entertainment venue in Nairobi, offering a unique blend of music, food, and culture.
       <ul>
@@ -50,7 +50,7 @@ const gemDetails = {
   },
   "K1 Klub House": {
     name: "K1 Klub House ,Ojijo Road, Parklands, Nairobi",
-    image: "images/K1.jpg",
+    image: "K1.jpg",
     description: `
       K1 Klub House is a popular entertainment venue in Nairobi, offering a unique blend of music, food, and culture.
       <ul>
@@ -63,7 +63,7 @@ const gemDetails = {
   },
   "Yunion": {
     name: "Yunion",
-    image: "images/K1.jpg",
+    image: "K1.jpg",
     description: `
       Yunion is a restaurant that offers a fusion of gourmet dining and café vibe. It is described as a hotspot where creatives, artists, and others can blend work with relaxation. 
       <ul>
