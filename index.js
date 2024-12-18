@@ -7,18 +7,15 @@ const closeBtn = document.querySelector('.close-btn');
 
 // Define gem data
 const gemDetails = {
-  "Iced mint": {
-    name: "Iced mint",
-    image: "karura.jpg",
+  "NSK": {
+    name: "NSK",
+    image: "Nsk.jpg",
     description: `
-      Karura Forest is one of Nairobi's hidden treasures, offering a serene escape from the bustling city. 
+      Whether it’s for a special celebration, drinks with friends, or a business lunch, the eclectic collection of Nairobi Street Kitchen restaurants, bars, and entertainment spaces set the perfect mood for any occasion
       <ul>
-        <li>Scenic nature trails for walking, running, and cycling.</li>
-        <li>Beautiful waterfalls and picnic sites.</li>
-        <li>Historical caves with cultural significance.</li>
-        <li>Over 200 bird species and diverse flora and fauna.</li>
+        <li>thrilling street-food market style experience where you can stroll through global food and drink offerings</li>
+        <li>shop from artisanal merchants, or indulge your senses with our hosted live bands and thoughtfully curated local art selection</li>
       </ul>
-      <p><strong>Entrance Fee:</strong> Ksh 200 (Citizens), Ksh 600 (Residents), Ksh 1200 (Non-Residents).</p>
       <p><strong>Operating Hours:</strong> 6:00 AM - 7:00 PM, Daily.</p>
     `
   },
