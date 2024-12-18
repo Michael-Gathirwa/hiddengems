@@ -8,7 +8,7 @@ const closeBtn = document.querySelector('.close-btn');
 // Define gem data
 const gemDetails = {
   "NSK": {
-    name: "NSK",
+    name: "Nairobi Street Kitchen",
     image: "Nsk.jpg",
     description: `
       Whether it’s for a special celebration, drinks with friends, or a business lunch, the eclectic collection of Nairobi Street Kitchen restaurants, bars, and entertainment spaces set the perfect mood for any occasion
