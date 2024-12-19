@@ -60,7 +60,7 @@ const gemDetails = {
   },
   "Yunion": {
     name: "Yunion",
-    image: "K1.jpg",
+    image: "yun.jpg",
     description: `
       Yunion is a restaurant that offers a fusion of gourmet dining and café vibe. It is described as a hotspot where creatives, artists, and others can blend work with relaxation. 
       <ul>
