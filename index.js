@@ -70,6 +70,18 @@ const gemDetails = {
       </ul>
       <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAAXNSR0IArs4c6QAAAsRJREFUOE9tVE1IVFEU/r47qVEaFRRUm5BaRqsgxFxkzkjLaCHoaOP81CISQnERQT9EFARuQtI3Wb4JV60idAa0KC0CVy01ghYtIyFI/Hnv5L3v3TdvtLcYzp1z7jnfOd89H0EAYn6gP23pr3oKLOMjINVjGF2N1P7oIkMryB1LS4IioTcoWJMzRBFLFgR1ZjKHvIR3XonfTKoGi9ImEMAD/B+bnj8/OzH1nRSTWSe35Y2VzPZeBmSCQGPglKg3AWPBGiU9Um6Vx0uPbP9RslQhfQSCJRE0VivU4goK1E4VQFvFKX2M5q3dyXzPAMARCDYSvnfSS+wahMj1aPrbDJNYt+jzRbnoZuLkIZnreQxwKORyksBxCBYBTqg9+5c3Vn83KyJD4SAoFAkwEpgrO2675ivETKRy3aMCXLNE0ucw6X8A1CVQnQa8b6CaEh+tgDy0D4jAwoxTarVPRw8TqXxPUQT90fNYYyPreRuU4ViHn9bqm1IN639+AtgXTvRzxXFbNKwIWTKXHgf8nAFPrFQc90BHNv2WxMWA+zDaxylQngJs08kUsTjtuGdqCEjl089EULAo1upXmxrWdz8AeAMUBDOS976qK9DffEfIMYNF8KX83D1rXpG9nMqmx0Dk7VkgV33I1wR4H+AFgZql4J5ATpBSNHkEUJCFmWI4Mwsvme0bgfIHYnuyIoLeStF9Y0lJZtMFAqO6uyoBnJtx3PbqzAh05vpuCrwnup0YM9r8JVTLFL8ZwOH/LM7LslO6ov+P2uzo7zqqVN2SQPYGaCNeIzu+GYYP3abiuemxyfltADS6dJcAJQAJ20YkR+ayLlDd0q0tuFNx3Lt2VFpcTIDVtWS+uwXAIIQHd6paiE3wV5NQdl69jsdE70xjDtQkEBvbpim1Tc+CoYa8G2Gj2dNw2oHa7dCDmEgGZlgwktyYTG6Z/wCbGicxrZfmkgAAAABJRU5ErkJggg=="/>
     `
+  },
+"270°": {
+    name: "270° Rooftop",
+    image: "270.jpg",
+    description: `
+     Nairobi’s ultimate urban escape, where panoramic city views meet culinary excellence.
+      <ul>
+        <li>Savor a fusion of global flavors expertly crafted by top chefs</li>
+        <li>As the sun sets, 270° Rooftop transforms into a vibrant social hub, with music and ambiance setting the stage for unforgettable nights under the stars</li>
+      </ul>
+      <p><strong>Opening Hours:</strong> 6:00 AM - 22:30 PM, Monday to Sunday.</p>
+    `
   }
 };
 
