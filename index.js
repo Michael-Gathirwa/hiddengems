@@ -23,12 +23,7 @@ const gemDetails = {
     name: "Black Samurai Lounge",
     image: "blacksl1.jpg",
     description: `
-      Matbronze Gallery is a hidden art hub in Nairobi, showcasing exquisite bronze sculptures and unique designs.
-      <ul>
-        <li>A diverse collection of handcrafted bronze sculptures.</li>
-        <li>An on-site café serving light meals and beverages.</li>
-        <li>Workshops on bronze casting and art appreciation.</li>
-      </ul>
+      a popular nightlife destination in Nairobi, offering a unique blend of music, decor, and atmosphere.
       <p><strong>Opening Hours:</strong> 9:00 AM - 5:00 PM, Monday to Saturday.</p>
     `
   },
