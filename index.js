@@ -74,8 +74,7 @@ const gemDetails = {
 "270°": {
     name: "270° Rooftop",
     image: "270.jpg",
-    description: `
-     Nairobi’s ultimate urban escape, where panoramic city views meet culinary excellence.
+    description: `Nairobi’s ultimate urban escape, where panoramic city views meet culinary excellence.
       <ul>
         <li>Savor a fusion of global flavors expertly crafted by top chefs</li>
         <li>As the sun sets, 270° Rooftop transforms into a vibrant social hub, with music and ambiance setting the stage for unforgettable nights under the stars</li>
