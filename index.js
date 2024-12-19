@@ -19,9 +19,9 @@ const gemDetails = {
       <p><strong>Operating Hours:</strong> 6:00 AM - 7:00 PM, Daily.</p>
     `
   },
-  "Matbronze Gallery": {
-    name: "Matbronze Gallery",
-    image: "matbronze.jpg",
+  "Samurai": {
+    name: "Black Samurai Lounge",
+    image: "blacksl1.jpg",
     description: `
       Matbronze Gallery is a hidden art hub in Nairobi, showcasing exquisite bronze sculptures and unique designs.
       <ul>
