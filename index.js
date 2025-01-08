@@ -16,8 +16,8 @@ const gemDetails = {
 The high design and contemporary space brings together trendy dining which dovetails into our Urban lifestyles. 
 We are a new experience - everyday ! 
 
-
-      <p><strong>Operating Hours:</strong> 6:00 AM - 7:00 PM, Daily.</p>
+      <p><strong>Operating Hours:</strong> Monday — Friday  7:00am-11:00pm</p>
+      <p><strong>Operating Hours:</strong> Saturday — Sunday 9:00am-11:00pm</p>
     `
   },
   "NSK": {
