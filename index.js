@@ -17,7 +17,8 @@ The high design and contemporary space brings together trendy dining which dovet
 We are a new experience - everyday ! 
 
       <p><strong>Operating Hours:</strong> Monday — Friday  7:00am-11:00pm</p>
-      <p><strong>Operating Hours:</strong> Saturday — Sunday 9:00am-11:00pm</p> <a href="https://www.instagram.com/urbaneaterynbo?igsh=MTNxZ2swYnhpY2pmNQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>`
+      <p><strong>Operating Hours:</strong> Saturday — Sunday 9:00am-11:00pm</p> 
+      <a href="https://www.instagram.com/urbaneaterynbo?igsh=MTNxZ2swYnhpY2pmNQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>`
   },
   "NSK": {
     name: "Nairobi Street Kitchen",
@@ -29,6 +30,7 @@ We are a new experience - everyday !
         <li>shop from artisanal merchants, or indulge your senses with our hosted live bands and thoughtfully curated local art selection</li>
       </ul>
       <p><strong>Operating Hours:</strong> 6:00 AM - 7:00 PM, Daily.</p>
+      <a href="https://www.instagram.com/nairobi_street_kitchen?igsh=MXVtM28yNmZweHF5MQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>
     `
   },
   "Samurai": {
@@ -37,6 +39,7 @@ We are a new experience - everyday !
     description: `
       a popular nightlife destination in Nairobi, offering a unique blend of music, decor, and atmosphere.
       <p><strong>Opening Hours:</strong> 9:00 AM - 5:00 PM, Monday to Saturday.</p>
+      <a href="https://www.instagram.com/blacksamurailounge?igsh=YTAyNzJ0dHh3dGIw" target="_blank"> <i class='bx bxl-instagram'></i> </a>
     `
   },
   "K1 Klub House": {
@@ -52,19 +55,7 @@ We are a new experience - everyday !
       <p><strong>Opening Hours:</strong> 10:00 AM - 6:00 PM, Tuesday to Sunday.</p>
     `
   },
-  "K1 Klub House": {
-    name: "K1 Klub House ,Ojijo Road, Parklands, Nairobi",
-    image: "K1.jpg",
-    description: `
-      K1 Klub House is a popular entertainment venue in Nairobi, offering a unique blend of music, food, and culture.
-      <ul>
-        <li>Unique eco-friendly products made from recycled materials.</li>
-        <li>A vibrant space for art exhibitions and workshops.</li>
-        <li>On-site shops featuring local handmade crafts.</li>
-      </ul>
-      <p><strong>Opening Hours:</strong> 10:00 AM - 6:00 PM, Tuesday to Sunday.</p>
-    `
-  },
+  
   "Yunion": {
     name: "Yunion",
     image: "yun.jpg",
@@ -75,7 +66,7 @@ We are a new experience - everyday !
         <li>delightful fusion of tasty dishes and exciting events, with cosy seating and a welcoming atmosphere</li>
         <li>Yunion serves International cuisine.</li>
       </ul>
-      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAAXNSR0IArs4c6QAAAsRJREFUOE9tVE1IVFEU/r47qVEaFRRUm5BaRqsgxFxkzkjLaCHoaOP81CISQnERQT9EFARuQtI3Wb4JV60idAa0KC0CVy01ghYtIyFI/Hnv5L3v3TdvtLcYzp1z7jnfOd89H0EAYn6gP23pr3oKLOMjINVjGF2N1P7oIkMryB1LS4IioTcoWJMzRBFLFgR1ZjKHvIR3XonfTKoGi9ImEMAD/B+bnj8/OzH1nRSTWSe35Y2VzPZeBmSCQGPglKg3AWPBGiU9Um6Vx0uPbP9RslQhfQSCJRE0VivU4goK1E4VQFvFKX2M5q3dyXzPAMARCDYSvnfSS+wahMj1aPrbDJNYt+jzRbnoZuLkIZnreQxwKORyksBxCBYBTqg9+5c3Vn83KyJD4SAoFAkwEpgrO2675ivETKRy3aMCXLNE0ucw6X8A1CVQnQa8b6CaEh+tgDy0D4jAwoxTarVPRw8TqXxPUQT90fNYYyPreRuU4ViHn9bqm1IN639+AtgXTvRzxXFbNKwIWTKXHgf8nAFPrFQc90BHNv2WxMWA+zDaxylQngJs08kUsTjtuGdqCEjl089EULAo1upXmxrWdz8AeAMUBDOS976qK9DffEfIMYNF8KX83D1rXpG9nMqmx0Dk7VkgV33I1wR4H+AFgZql4J5ATpBSNHkEUJCFmWI4Mwsvme0bgfIHYnuyIoLeStF9Y0lJZtMFAqO6uyoBnJtx3PbqzAh05vpuCrwnup0YM9r8JVTLFL8ZwOH/LM7LslO6ov+P2uzo7zqqVN2SQPYGaCNeIzu+GYYP3abiuemxyfltADS6dJcAJQAJ20YkR+ayLlDd0q0tuFNx3Lt2VFpcTIDVtWS+uwXAIIQHd6paiE3wV5NQdl69jsdE70xjDtQkEBvbpim1Tc+CoYa8G2Gj2dNw2oHa7dCDmEgGZlgwktyYTG6Z/wCbGicxrZfmkgAAAABJRU5ErkJggg=="/>
+      <a href="https://www.instagram.com/yunionke?igsh=MXdnNWl0eGhhYWVscQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>
     `
   },
   "Mass": {
