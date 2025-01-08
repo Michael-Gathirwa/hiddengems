@@ -90,7 +90,7 @@ moments that matter and celebrate each event with authenticity and care.</li>
       </ul>
       <p><strong>Opening Hours:</strong> 6:00 AM - 22:30 PM, Monday to Sunday.</p>
       <a href="https://www.instagram.com/270rooftop?igsh=YTcyOG0ybWNqem9w" target="_blank" > <i class='bx bxl-instagram'></i>    `
-    `
+    
   }
 };
 
