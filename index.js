@@ -88,7 +88,7 @@ venue is designed to host outstanding, unique events that stand out in every way
       <li>Every aspect of Masshouse Live is crafted for an exceptional experience, ensuring each event is memorable. From
 luxurious settings to top-tier service, we are dedicated to making every occasion special. At Masshouse, we create
 moments that matter and celebrate each event with authenticity and care.</li>
-<i class='bx bxl-instagram'></i>    `
+<i class='bx bxl-instagram'>masshouse_live</i>    `
   },
 "270°": {
     name: "270° Rooftop",
