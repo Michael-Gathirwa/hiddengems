@@ -89,6 +89,7 @@ moments that matter and celebrate each event with authenticity and care.</li>
         <li>As the sun sets, 270° Rooftop transforms into a vibrant social hub, with music and ambiance setting the stage for unforgettable nights under the stars</li>
       </ul>
       <p><strong>Opening Hours:</strong> 6:00 AM - 22:30 PM, Monday to Sunday.</p>
+      <a href="https://www.instagram.com/270rooftop?igsh=YTcyOG0ybWNqem9w" target="_blank" > <i class='bx bxl-instagram'></i>    `
     `
   }
 };
