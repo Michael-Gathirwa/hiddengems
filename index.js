@@ -7,7 +7,7 @@ const closeBtn = document.querySelector('.close-btn');
 
 // Define gem data
 const gemDetails = {
-  "ubarn": {
+  "urban": {
     name: "urban",
     image: "ue.jpg",
     description: `
