@@ -18,7 +18,8 @@ We are a new experience - everyday !
 
       <p><strong>Operating Hours:</strong> Monday — Friday  7:00am-11:00pm</p>
       <p><strong>Operating Hours:</strong> Saturday — Sunday 9:00am-11:00pm</p> 
-      <a href="https://www.instagram.com/urbaneaterynbo?igsh=MTNxZ2swYnhpY2pmNQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>`
+      <a href="https://www.instagram.com/urbaneaterynbo?igsh=MTNxZ2swYnhpY2pmNQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>
+      <a> <i class='bx bx-message-rounded-dots'></i> </a>`
   },
   "NSK": {
     name: "Nairobi Street Kitchen",
