@@ -7,6 +7,18 @@ const closeBtn = document.querySelector('.close-btn');
 
 // Define gem data
 const gemDetails = {
+  "ubarn": {
+    name: "Urban Eatery",
+    image: "Nsk.jpg",
+    description: `
+      Whether it’s for a special celebration, drinks with friends, or a business lunch, the eclectic collection of Nairobi Street Kitchen restaurants, bars, and entertainment spaces set the perfect mood for any occasion
+      <ul>
+        <li>thrilling street-food market style experience where you can stroll through global food and drink offerings</li>
+        <li>shop from artisanal merchants, or indulge your senses with our hosted live bands and thoughtfully curated local art selection</li>
+      </ul>
+      <p><strong>Operating Hours:</strong> 6:00 AM - 7:00 PM, Daily.</p>
+    `
+  },
   "NSK": {
     name: "Nairobi Street Kitchen",
     image: "Nsk.jpg",
