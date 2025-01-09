@@ -124,28 +124,4 @@ window.addEventListener('click', (e) => {
   }
 });
 
-// Elements for the modals
-const modal = document.getElementById('modal');
-const inquiryModal = document.getElementById('inquiry-modal');
-
-// WhatsApp-style Icon for triggering modals
-const gemTalkToUsBtn = document.getElementById('gem-talk-to-us');
-const inquiryCloseBtn = document.querySelector('.inquiry-close');
-
-// Open Inquiry Modal
-gemTalkToUsBtn.addEventListener('click', (e) => {
-  e.stopPropagation(); // Prevent closing the gem modal
-  inquiryModal.style.display = 'flex';
-  inquiryModal.style.top = `${window.scrollY}px`; // Adjust for scroll position
-});
-
-// Close Inquiry Modal
-inquiryCloseBtn.addEventListener('click', () => {
-  inquiryModal.style.display = 'none';
-});
-
-// Close modals on outside click
-inquiryModal.addEventListener('click', (e) => {
-  if (e.target === inquiryModal) inquiryModal.style.display = 'none';
-});
 
