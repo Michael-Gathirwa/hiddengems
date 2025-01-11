@@ -19,8 +19,8 @@ We are a new experience - everyday !
       <p><strong>Operating Hours:</strong> Monday — Friday  7:00am-11:00pm</p>
       <p><strong>Operating Hours:</strong> Saturday — Sunday 9:00am-11:00pm</p> 
       <a href="https://www.instagram.com/urbaneaterynbo?igsh=MTNxZ2swYnhpY2pmNQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>
-      <a href="mailto:michaelgkiberenge@gmail.com?subject=Inquiry%20About%20Services&body=Hello, I came across your restaurant from nairobigems website and would like to inquire about..."><i class='bx bx-message-rounded-dots'></i> </a>
-      <a href="https://wa.me/254745055831?text=Hi%20there!%20I%20wanted%20to%20recommend%20[Service%20or%20Business%20Name].%20They%20offer%20excellent%20[service/product]%20and%20I%20think%20you'd%20love%20it.%20Here%27s%20their%20contact%20info:%20[details]"><i class='bx bxl-whatsapp'></i> </a>
+      <a href="mailto:gm@urbaneatery.co.ke?subject=Inquiry%20About%20Services&body=Hello, I came across your restaurant from nairobigems website and would like to inquire about..."><i class='bx bx-message-rounded-dots'></i> </a>
+      <a href="https://wa.me/254737692622?text=Hello%20there!%20I%20Would%20Like%20To%20Reserve%20A%20Table%20Please%20Let%20Me%20Know%20If%20This%20Is%20Possible.%20Thank%20You!."><i class='bx bxl-whatsapp'></i> </a>
       `
   },
   "NSK": {
@@ -34,7 +34,10 @@ We are a new experience - everyday !
       </ul>
       <p><strong>Operating Hours:</strong> 6:00 AM - 7:00 PM, Daily.</p>
       <a href="https://www.instagram.com/nairobi_street_kitchen?igsh=MXVtM28yNmZweHF5MQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>
-    `
+      <a href="mailto:michaelgkiberenge@gmail.com?subject=Inquiry%20About%20Services&body=Hello, I came across your restaurant from nairobigems website and would like to inquire about..."><i class='bx bx-message-rounded-dots'></i> </a>
+      <a href="https://wa.me/254745055831?text=Hi%20there!%20I%20wanted%20to%20recommend%20[Service%20or%20Business%20Name].%20They%20offer%20excellent%20[service/product]%20and%20I%20think%20you'd%20love%20it.%20Here%27s%20their%20contact%20info:%20[details]"><i class='bx bxl-whatsapp'></i> </a>
+      
+      `    
   },
   "Samurai": {
     name: "Black Samurai Lounge",
@@ -43,7 +46,10 @@ We are a new experience - everyday !
       a popular nightlife destination in Nairobi, offering a unique blend of music, decor, and atmosphere.
       <p><strong>Opening Hours:</strong> 9:00 AM - 5:00 PM, Monday to Saturday.</p>
       <a href="https://www.instagram.com/blacksamurailounge?igsh=YTAyNzJ0dHh3dGIw" target="_blank"> <i class='bx bxl-instagram'></i> </a>
-    `
+     <a href="mailto:michaelgkiberenge@gmail.com?subject=Inquiry%20About%20Services&body=Hello, I came across your restaurant from nairobigems website and would like to inquire about..."><i class='bx bx-message-rounded-dots'></i> </a>
+      <a href="https://wa.me/254745055831?text=Hi%20there!%20I%20wanted%20to%20recommend%20[Service%20or%20Business%20Name].%20They%20offer%20excellent%20[service/product]%20and%20I%20think%20you'd%20love%20it.%20Here%27s%20their%20contact%20info:%20[details]"><i class='bx bxl-whatsapp'></i> </a>
+      
+      `
   },
   "K1 Klub House": {
     name: "K1 Klub House ,Ojijo Road, Parklands, Nairobi",
