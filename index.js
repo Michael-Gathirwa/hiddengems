@@ -19,7 +19,8 @@ We are a new experience - everyday !
       <p><strong>Operating Hours:</strong> Monday — Friday  7:00am-11:00pm</p>
       <p><strong>Operating Hours:</strong> Saturday — Sunday 9:00am-11:00pm</p> 
       <a href="https://www.instagram.com/urbaneaterynbo?igsh=MTNxZ2swYnhpY2pmNQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>
-      <a href="mailto:example@gmail.com?subject=Inquiry%20About%20Services&body=Hello, I came across your restaurant from nairobigems website and would like to inquire about..."><i class='bx bx-message-rounded-dots'></i> </a>
+      <a href="mailto:michaelgkiberenge@gmail.com?subject=Inquiry%20About%20Services&body=Hello, I came across your restaurant from nairobigems website and would like to inquire about..."><i class='bx bx-message-rounded-dots'></i> </a>
+       <a href="https://wa.me/254745055831?text=Hi%20there!%20I%20wanted%20to%20recommend%20[Service%20or%20Business%20Name].%20They%20offer%20excellent%20[service/product]%20and%20I%20think%20you'd%20love%20it.%20Here%27s%20their%20contact%20info:%20[details]."><i class='bx bxl-whastapp></i></a>
       `
   },
   "NSK": {
