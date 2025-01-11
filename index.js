@@ -19,7 +19,7 @@ We are a new experience - everyday !
       <p><strong>Operating Hours:</strong> Monday — Friday  7:00am-11:00pm</p>
       <p><strong>Operating Hours:</strong> Saturday — Sunday 9:00am-11:00pm</p> 
       <a href="https://www.instagram.com/urbaneaterynbo?igsh=MTNxZ2swYnhpY2pmNQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>
-      <a href="mailto:gm@urbaneatery.co.ke?subject=Inquiry%20About%20Services&body=Hello, I came across your restaurant from nairobigems website and would like to inquire about..."><i class='bx bx-message-rounded-dots'></i> </a>
+      <a href="mailto:gm@urbaneatery.co.ke,michaelgkiberenge@gmail.com?subject=Inquiry%20About%20Services&body="Hi, I’d like to reserve a table.Please let me know if this is possible. Thank you!""><i class='bx bx-message-rounded-dots'></i> </a>
       <a href="https://wa.me/254737692622?text=Hello%20there!%20I%20Would%20Like%20To%20Reserve%20A%20Table%20Please%20Let%20Me%20Know%20If%20This%20Is%20Possible.%20Thank%20You!."><i class='bx bxl-whatsapp'></i> </a>
       `
   },
