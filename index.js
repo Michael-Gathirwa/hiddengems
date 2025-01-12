@@ -8,11 +8,10 @@ const closeBtn = document.querySelector('.close-btn');
 // Define gem data
 const gemDetails = {
   "urban": {
-    name: <a href="https://www.urbaneatery.co.ke/">"Urban Eatery"</a>,
+    name: "Urban Eatery",
     image: "UrE.jpg",
     description: `
       Offering an energized atmosphere in the heart of Nairobi, Urban Eatery consists of four different kitchens and our signature bar, with menus spanning from tasty early morning bites to more substantial evening feasts.
-
 The high design and contemporary space brings together trendy dining which dovetails into our Urban lifestyles. 
 We are a new experience - everyday ! 
 
@@ -20,8 +19,7 @@ We are a new experience - everyday !
       <p><strong>Operating Hours:</strong> Saturday — Sunday 9:00am-11:00pm</p> 
       <a href="https://www.instagram.com/urbaneaterynbo?igsh=MTNxZ2swYnhpY2pmNQ==" target="_blank"> <i class='bx bxl-instagram'></i> </a>
       <a href="mailto:gm@urbaneatery.co.ke,michaelgkiberenge@gmail.com?subject=Nairobi%20Hidden%20Gems&body=Hello%20There,%20I%20Would%20Like%20To%20Reserve%20A%20Table%20Please%20Let%20Me%20Know%20If%20This%20Is%20Possible.%20Thank%20You!."><i class='bx bxl-gmail'></i> </a>      
-      <a href="https://wa.me/254737692622?text=Hello%20there!%20I%20Would%20Like%20To%20Reserve%20A%20Table%20Please%20Let%20Me%20Know%20If%20This%20Is%20Possible.%20Thank%20You!."><i class='bx bxl-whatsapp'></i> </a>
-      `
+      <a href="https://wa.me/254737692622?text=Hello%20there!%20I%20Would%20Like%20To%20Reserve%20A%20Table%20Please%20Let%20Me%20Know%20If%20This%20Is%20Possible.%20Thank%20You!."><i class='bx bxl-whatsapp'></i> </a>`
       },
   "NSK": {
     name: "Nairobi Street Kitchen",
@@ -102,7 +100,7 @@ moments that matter and celebrate each event with authenticity and care.</li>
     
   },
   "Kahani": {
-    name: <a href="https://www.mgallery-nairobi-gem-forest.com/">"Kahani Restaurant"</a>,
+    name: "Kahani Restaurant",
     image: "Kahani.jpg",
     description: `
        Kahani Meaning ‘story’, is a modern Indian restaurant,takes you on a unique culinary journey that reimagines traditional Indian flavours with innovative techniques and presentations. Open from lunch to dinner, highlights include a High Chai and creative mixology infused with fragrant spices.
