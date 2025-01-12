@@ -105,10 +105,7 @@ moments that matter and celebrate each event with authenticity and care.</li>
     name: "Kahani Restaurant",
     image: "Kahani.jpg",
     description: `
-      Kahani
-Spices, Spirits and Sensory Delights Unfold
-Meaning ‘story’, Kahani is a modern Indian restaurant located on the ground floor. Our menu takes you on a unique culinary journey that reimagines traditional Indian flavours with innovative techniques and presentations. Open from lunch to dinner, highlights include a High Chai and creative mixology infused with fragrant spices.
-The bright, feminine and glamorous space revolves around 360-degree crystal bar, a true showcase where light plays ethereal effects throughout the day. At its centre, housed within a column reaching up to the ceiling, is a spirit library offering an extensive selection of liquors for guests to explore.
+       Kahani Meaning ‘story’, is a modern Indian restaurant,takes you on a unique culinary journey that reimagines traditional Indian flavours with innovative techniques and presentations. Open from lunch to dinner, highlights include a High Chai and creative mixology infused with fragrant spices.
 
       <p><strong>Operating Hours:</strong> Monday — Friday  7:00am-11:00pm</p>
       <p><strong>Operating Hours:</strong> Saturday — Sunday 9:00am-11:00pm</p> 
