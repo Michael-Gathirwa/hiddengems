@@ -8,7 +8,7 @@ const closeBtn = document.querySelector('.close-btn');
 // Define gem data
 const gemDetails = {
   "urban": {
-    name: "Urban Eatery",
+    name: <a href="https://www.urbaneatery.co.ke/">"Urban Eatery"</a>,
     image: "UrE.jpg",
     description: `
       Offering an energized atmosphere in the heart of Nairobi, Urban Eatery consists of four different kitchens and our signature bar, with menus spanning from tasty early morning bites to more substantial evening feasts.
