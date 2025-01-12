@@ -102,7 +102,7 @@ moments that matter and celebrate each event with authenticity and care.</li>
     
   },
   "Kahani": {
-    name: "Kahani Restaurant",
+    name: <a href="https://www.mgallery-nairobi-gem-forest.com/">"Kahani Restaurant"</a>,
     image: "Kahani.jpg",
     description: `
        Kahani Meaning ‘story’, is a modern Indian restaurant,takes you on a unique culinary journey that reimagines traditional Indian flavours with innovative techniques and presentations. Open from lunch to dinner, highlights include a High Chai and creative mixology infused with fragrant spices.
