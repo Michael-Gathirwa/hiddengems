@@ -71,6 +71,7 @@ h1 {
   text-align: left;
   position: relative;
   overflow-y: auto;
+  margin: auto;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   animation: fadeIn 0.3s ease-in-out;
 }
